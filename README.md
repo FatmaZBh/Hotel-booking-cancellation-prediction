@@ -20,11 +20,6 @@ This project analyzes hotel booking data to predict cancellations and identify c
 - Supervised learning (Logistic Regression, KNN, Decision Tree, Random Forest, Gradient Boosting)  
 - Unsupervised learning (K-Means clustering, PCA)
 
-## Results
-- Best model: Gradient Boosting (ROC-AUC ≈ 0.85)  
-- Longer lead times and booking conditions strongly influence cancellations  
-- Four distinct customer segments identified with different risk profiles  
-
 ## Tech Stack
 Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
